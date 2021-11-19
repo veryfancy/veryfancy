@@ -1,7 +1,7 @@
 Stack:
- * 🤝 &nbsp;people,
- * 🌳 &nbsp;systems,
  * 💻 &nbsp;software
+ * 🌳 &nbsp;systems
+ * 🤝 &nbsp;people
 
 Modes:
  * Getting to the bottom of things 🔎
